@@ -18,7 +18,7 @@ with tab2:
    select = st.text_input("Enter the Word")
    submit = st.button("Search")
    if submit:
-      DETA_KEY ="d0yz71smpt6_DHwfWqpYu865GAhNXngRAMkvsK1XMnxr"
+      DETA_KEY ="huijhuigthjdrggfkujh"
 
 
       deta = Deta(DETA_KEY)
